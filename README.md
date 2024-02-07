@@ -13,3 +13,4 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## "Sou um apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas e pratico constantemente meus conhecimentos em projetos práticos e cursos onlines.
+
