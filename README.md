@@ -14,5 +14,4 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Cursando Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos conhecimentos através de projetos práticos e cursos online. Enfrento os desafios da programação e desenvolvo projetos pessoais e acadêmicos para aprimorar minhas habilidades. Atualmente, faço estágio em Tecnologia da Informação na Pratt & Whitney, onde aplico meus conhecimentos em um ambiente corporativo dinâmico e colaborativo, contribuindo para o suporte técnico e a eficiência dos serviços de TI.
-
+## Cursando Sistemas da Informação, estou sempre em busca de novos conhecimentos através de projetos práticos e cursos online. Enfrento os desafios da programação e desenvolvo projetos pessoais e acadêmicos para aprimorar minhas habilidades. Atualmente, faço estágio em Tecnologia da Informação na Pratt & Whitney, onde atuo como parte da equipe de suporte técnico, garantindo a continuidade dos serviços de TI e resolvendo problemas técnicos. Contribuo para a eficiência operacional e a melhoria contínua dos processos dentro de um ambiente corporativo dinâmico e colaborativo.
